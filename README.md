@@ -15,4 +15,4 @@ Holmgren, S. et al. (2023). [Workshop Report: Catalyzing Knowledge-Driven Discov
 
 Karmaus, A. et al. (2025). [Methods2AOP: A Collaboration to Strengthen the Integration of Test Methods into the Adverse Outcome Pathway Framework](https://f1000research.com/articles/14-1375). F1000Research.
 
-Stingone, J. et al. (2025). [Unlocking the Power of Data Harmonization in Environmental Health Sciences: A Comprehensive Exploration of Significance, Use Cases, and Recommendations for Standardization Efforts](https://ehp.niehs.nih.gov/doi/10.1289/EHP15410). Environmental Health Perspectives. 
+Stingone, J. et al. (2025). [Unlocking the Power of Data Harmonization in Environmental Health Sciences: A Comprehensive Exploration of Significance, Use Cases, and Recommendations for Standardization Efforts](https://github.com/NIEHS/EHLC/blob/main/stingone-et-al-unlocking-the-power-of-data-harmonization-in-environmental-health-sciences-a-comprehensive-exploration.pdf). Environmental Health Perspectives. 
